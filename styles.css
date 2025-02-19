@@ -25,7 +25,8 @@ h1 {
 .item {
     align-items: center;
     padding: 10px;
-    width: 350px;
+    width: 100%;
+    box-sizing: border-box;
     border-bottom: 1px solid #d7ccc8;
 }
 
